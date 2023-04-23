@@ -1,0 +1,22 @@
+img {
+    margin-top: 10px;
+    background-color: #5c5959;
+    border-radius: 6px;
+}
+
+footer {
+    display: flex;
+    width: 100%;
+}
+.card-body {
+    background-color: #212529;
+    margin-top: 3px;
+    margin-bottom: 1px;
+    border-radius: 10px;
+    width: 100%;
+    color: white;
+    
+}
+.btn .btn-primary a {
+    background-color: white;
+}
